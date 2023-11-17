@@ -1,0 +1,1 @@
+const nofuimoLogo = "assets/images/nofuimo-logo.png";
